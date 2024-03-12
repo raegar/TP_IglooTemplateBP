@@ -1,3 +1,4 @@
 *Igloo Template*
 
-This project is a template for Igloo Builds. Developed by Jamie Myland for ARU Peterborough.
+This project is a UE5.3 template for Igloo Builds. Developed by Jamie Myland for ARU Peterborough.
+To install, Copy the TP_IglooTemplateBP folder into C:\Program Files\Epic Games\UE_5.3\Templates\
